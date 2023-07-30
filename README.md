@@ -1,6 +1,16 @@
 # Labeled-Faces-in-the-Wild
 Image recognition of labelled faces in wild
 
+**Data Preparation:**
+
+**Model Resource:**
+* Logistice Regression: https://www.youtube.com/watch?v=hjrYrynGWGA
+* Random Forest(Bagging): https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLEny7y9mZcaxFAyivwT2nwIEvfHAzFdX9&index=10
+* XGboost(or gradient boosting tree) (Boosting):  https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLEny7y9mZcaxFAyivwT2nwIEvfHAzFdX9&index=10
+* CNN Model: https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLcCe-ymWq77rTVo-pN2X7qsfBTnmrsYS7 (1 to 13) if you find interesting complete the full course.
+* CNN with Siamese architeciture: https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLcCe-ymWq77rTVo-pN2X7qsfBTnmrsYS7 (32 to 36). about image recognition
+ 
+
 **How to run arcface file:**
 * Clone this repo:
 ```
