@@ -1,6 +1,35 @@
 # Labeled-Faces-in-the-Wild
 Image recognition of labelled faces in wild
 
+### What to know about project?
+
+##### Dataset
+- Where we get the data?
+- What type of data it is?
+- how we prepared data?
+- what are classification type?
+- number of train and test data?
+- what are is the shape of the image?
+
+##### Preprocessing
+- What are preprocessing method used
+- SIFT
+- LBP
+- Euclideian Distance
+- Cosine Distance
+- Manhattan Distance
+
+##### Model
+- Random Forest
+- Xgboost
+- Logistic Regression
+- DCNN deep convolutional neural network(Siamese network)
+
+#### Result
+- Confusion matrix 
+- precision, recall and Accuracy 
+- AUC ROC curve
+
 **Data Preparation:**
 
 **Model Resource:**
